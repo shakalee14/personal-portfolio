@@ -4,7 +4,7 @@ Build two websites for two local organizations: Funny Bone and Ethan Stark.  Dep
 
 ## Specifications
 
-### Funny Bone
+### Funny Bone repo: https://github.com/shakalee14/funnybone
 - [ ] Implement a e-commerce application
   - [x] Administrator view is separate from visitors view
   - [x] Implement OAUTH using GMAIL for administrator access (as an administrator, i can log into the website)
@@ -17,7 +17,7 @@ Build two websites for two local organizations: Funny Bone and Ethan Stark.  Dep
   - [x] As a visitor, I can browse inventory by category
 - [x] Deploy to Heroku - http://funnybonedesign.herokuapp.com/
 
-### Ethan Stark
+### Ethan Stark: https://github.com/ethanjstark/personal-portfolio
 - [x] Build a personal portfolio site showcasing web development projects
 - [x] As a visitor, I can easily contact Ethan Stark via email or phone
 - [x] As a visitor, I can navigate to related links: Github, project sites, LinkedIn
